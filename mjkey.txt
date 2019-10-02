@@ -1,0 +1,20 @@
+MuJoCo Pro Personal license activation key, number 68325, type 6.
+
+Issued to yuanyong <m201873064@hust.edu.cn>.
+
+Expires October 2, 2020.
+
+This file activates MuJoCo Pro on a single computer with id:
+LINUX_0F1001VX30H66S01H_66A0HT4W119
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+e9b198461cbef779de608e12c97d44c6b3da506e787130818cf432a8906d3f1e
+a8fd84e07c6541d107341506a4cb3012a3e8570ea6de4f530f78516ccd5348b3
+c42b6304b442d7ac608c64ba2ac6891b62635c74b3d65917d8ef42ba815ab9f5
+2f161a19f8b3e7d3532293869b143bff6f38306be90e5990cdd8f7b1507e450d
+faf7365a024f3ff489f71409b4484b9cabcdf9a37bcad85b71e05789eee6596a
+bffed7e1ae592ebce9bcac6597de17c8ec932084b42cb6e2516fa2f7a7782446
+823fd9fd152627e6e589f6fbf4db0e2d1636cc0be1feae1378640efbb4d7ac14
+e47db20f8d85575c848b8c6f99150fbda1edeacf17517914d37d0ec7f13bc7fb
